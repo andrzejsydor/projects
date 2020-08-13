@@ -1,0 +1,1 @@
+Run test to generate SQL DDL
